@@ -1,0 +1,7 @@
+{
+  "fshare": {
+    "email": "",
+    "token": ""
+  },
+  "notes": "Nếu repo public, để trống email/token ở đây. Thay vào đó, nhập credentials trong plugin UI hoặc giữ file config chỉ trên máy bạn."
+}
