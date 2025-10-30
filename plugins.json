@@ -1,0 +1,41 @@
+[
+  {
+    "name": "Fshare Cloudstream (Pro)",
+    "id": "profilm.fshare.advanced",
+    "description": "Phát phim từ Fshare.vn — hỗ trợ login (email+password), lưu token, lấy direct link.",
+    "version": 3,
+    "authors": ["TNB88","ChatGPT"],
+    "language": "vi",
+    "type": "video",
+    "icon": "https://www.stremio.com/website/stremio-logo-small.png",
+    "scriptFile": "fshare.js",
+    "repo": "https://raw.githubusercontent.com/TNB88/profilm/refs/heads/main/repo.json",
+    "requires": ">=3.0.0"
+  },
+  {
+    "name": "KKPhim Source",
+    "id": "profilm.kkphim",
+    "description": "Crawl & read từ kkphim (search, categories, episodes).",
+    "version": 1,
+    "authors": ["TNB88","ChatGPT"],
+    "language": "vi",
+    "type": "video",
+    "icon": "https://kkphim.to/favicon.ico",
+    "scriptFile": "kkphim.js",
+    "repo": "https://raw.githubusercontent.com/TNB88/profilm/refs/heads/main/repo.json",
+    "requires": ">=3.0.0"
+  },
+  {
+    "name": "ThuvienHD Source",
+    "id": "profilm.thuvienhd",
+    "description": "Crawl & read từ ThuvienHD (phim mới, backup links).",
+    "version": 1,
+    "authors": ["TNB88","ChatGPT"],
+    "language": "vi",
+    "type": "video",
+    "icon": "https://www.thuvienhd.com/favicon.ico",
+    "scriptFile": "thuvienhd.js",
+    "repo": "https://raw.githubusercontent.com/TNB88/profilm/refs/heads/main/repo.json",
+    "requires": ">=3.0.0"
+  }
+]
