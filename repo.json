@@ -1,0 +1,8 @@
+{
+  "name": "Profilm Việt Plugin",
+  "description": "Profilm Multi-Source Repository — Fshare, KKPhim, ThuvienHD (Pro pack)",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/TNB88/profilm/refs/heads/main/plugins.json"
+  ]
+}
